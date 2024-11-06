@@ -26,3 +26,16 @@ const output = numbers.map((x)=>{
 
 // caso queira mostrar a nova lista com os arrays modificados, deve usar a variável output
 console.log(output);
+
+
+/*
+
+esse algoritmo cria uma lista com numeros,
+
+então usa a função map para iterar os elementos da lista numeros 
+e dentro dela retorna o elemento multiplicado por 2,
+
+e esse array vai ser atribuido a uma variável nova chamada output,
+por útimo o console.log vai mostrar no console o valor da variável output.
+
+*/
