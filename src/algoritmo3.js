@@ -55,8 +55,12 @@ console.log(output);
 
 esse algoritmo cria uma lista com numeros,
 depois cria a função isOdd que recebe um parametro pra dizer se esse número é ímpar,
+
 então usa a função filter na lista numbers e passa cada numero da lista na função isOdd,
 se função retornar 0, significa que o elemento é par e não vai ser adicionado na lista, 
 se retornar 1 ele é ímpar e vai ser adicionado.
+
+por útimo o console.log vai mostrar no console o valor da variável output.
+
 
 */
